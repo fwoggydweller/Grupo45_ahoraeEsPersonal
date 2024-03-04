@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\Rotar\\Rotar\\Rotar.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Documents\\GitHub\\Grupo45_ahoraeEsPersonal\\Rotar\\Rotar\\Rotar.csproj",
       "projectName": "Rotar",
-      "projectPath": "C:\\Users\\andre\\source\\repos\\Rotar\\Rotar\\Rotar.csproj",
+      "projectPath": "C:\\Users\\andre\\Documents\\GitHub\\Grupo45_ahoraeEsPersonal\\Rotar\\Rotar\\Rotar.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\source\\repos\\Rotar\\Rotar\\obj\\",
+      "outputPath": "C:\\Users\\andre\\Documents\\GitHub\\Grupo45_ahoraeEsPersonal\\Rotar\\Rotar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
